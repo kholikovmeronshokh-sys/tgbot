@@ -1,4 +1,4 @@
-app = "message-writer-bot"
+app = "tgbot-kholikovmeronshokh"
 primary_region = "sin"
 
 [build]
